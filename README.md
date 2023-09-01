@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyazmullaji
-- 👀 I’m interested in data science and web development
+- 👀 I’m interested in dcyber security and app development
 - 🌱 I’m currently learning cybersecurity and internet of things
 - 💞️ I’m looking to collaborate on intresting projects
 - 📫 Ask me about blogs
