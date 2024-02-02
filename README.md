@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riyazmullaji
-- 👀 I’m interested in dcyber security and app development
-- 🌱 I’m currently learning cybersecurity and internet of things
-- 💞️ I’m looking to collaborate on intresting projects
+- 👀 I’m interested in IoT, blockchain, and security aspects
+- 🌱 I’m currently learning Blockchain and the Internet of things
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 Ask me about blogs
 
 
