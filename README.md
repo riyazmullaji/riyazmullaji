@@ -6,7 +6,7 @@
 </div>
 
 
-## MY RECENT WORK
+## WHAT I'VE BUILT SO FAR
 
 <div>
 <img height="250" width="600" alt="Coding Animation" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRxeGhpOWY1aWhyOGl5d3FxaXp6MWppc3QxODNobzNmbDZpN3d5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rm1p7xp3Odl2o/giphy.gif"
