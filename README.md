@@ -19,6 +19,8 @@
   The Ultimate HYBRID-WebApplicationFirewall
 - 📙 [***riyazmullaji/NoSpamML***](https://dasghub.com/riyazmullaji/NoSpamML) <br/>
   A email classifer to get rid of spam-mails
+- 📘 [***riyazmullaji/Deefake Audio Detector***](https://github.com/riyazmullaji/DeepFake-Audio-Detection) <br/>
+  Code and dataset of my research paper 'Classification of Human and sytnesized audio in Marathi speech using CNN and melspectogram'
 - 📒 [***riyazmullaji/SecureX***](https://github.com/riyazmullaji/secureX) <br/>
   A cutting edge PHP platform that demonstrates banking operation.....but there's a twist
 
