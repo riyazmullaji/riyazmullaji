@@ -17,7 +17,7 @@
   IoT based project for watering the crops
 - 📘 [***riyazmullaji/SecureY***](https://github.com/riyazmullaji/SecureY) <br/>
   The Ultimate HYBRID-WebApplicationFirewall
-- 📙 [***riyazmullaji/NoSpamML***](https://dasghub.com/riyazmullaji/NoSpamML) <br/>
+- 📙 [***riyazmullaji/NoSpamML***](https://github.com/riyazmullaji/NoSpamML) <br/>
   A email classifer to get rid of spam-mails
 - 📘 [***riyazmullaji/Deefake Audio Detector***](https://github.com/riyazmullaji/DeepFake-Audio-Detection) <br/>
   Code and dataset of my research paper 'Classification of Human and sytnesized audio in Marathi speech using CNN and melspectogram'
