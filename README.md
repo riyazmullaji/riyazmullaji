@@ -14,7 +14,7 @@
 
 
 - 📗 [***riyazmullaji/SproutMate***](https://github.com/riyazmullaj/SproutMate) <br/>
-  IoT based project for watering the crops
+  IoT based project adressing erratic weather patterns for smart farming
 - 📘 [***riyazmullaji/SecureY***](https://github.com/riyazmullaji/SecureY) <br/>
   The Ultimate HYBRID-WebApplicationFirewall
 - 📙 [***riyazmullaji/NoSpamML***](https://github.com/riyazmullaji/NoSpamML) <br/>
