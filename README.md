@@ -1,5 +1,5 @@
 # Whoami? 
-> Engineer. Breaker. Fixer... Human-first builder.
+> Engineer. Builder. Fixer... Human.
 
 <div align="center">
 <img height="250" width="600" alt="Coding Animation" align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
