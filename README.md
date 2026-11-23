@@ -24,7 +24,7 @@ Built an end-to-end outbound prospecting workflow using Clay, Apollo, and Clayge
 
 **Stack:** Clay, Apollo, Claygent, LeadMagic, Smartlead, OpenAI
 
-### [Inbound Lead Qualification Pipeline](https://share-n8n.com/shared/KB6C4GqKKnUv)
+### [Inbound Lead Qualification Pipeline](https://github.com/riyazmullaji/Inbound-lead-qualification-n8n-)
 Built an n8n workflow that takes incoming leads from raw data to sales-ready contacts.
 
 - Validate, deduplicate, enrich, and score leads
