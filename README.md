@@ -22,7 +22,7 @@ Built an end-to-end outbound prospecting workflow using Clay, Apollo, and Clayge
 - Enrich contact data using multiple providers
 - Validate emails and automate outreach workflows
 
-**Stack:** Clay, Apollo, Claygent
+**Stack:** Clay, Apollo, Claygent, LeadMagic, Smartlead, OpenAI
 
 ### [Inbound Lead Qualification Pipeline](https://share-n8n.com/shared/KB6C4GqKKnUv)
 Built an n8n workflow that takes incoming leads from raw data to sales-ready contacts.
